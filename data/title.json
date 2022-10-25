@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Data Structures and Algorithms"
+    },
+    {
+      "id": "02",
+      "name": "Microprocessor And Embedded System"
+    },
+    {
+      "id": "03",
+      "name": "Web Engineering"
+    },
+    {
+      "id": "04",
+      "name": "Data Communication"
+    },
+    {
+      "id": "05",
+      "name": "Software Engineering"
+    },
+    {
+      "id": "06",
+      "name": "Computer Graphic"
+    }
+  ]
