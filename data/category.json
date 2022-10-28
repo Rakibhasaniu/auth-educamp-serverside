@@ -5,7 +5,7 @@
       "total_student": 45,
       "title": "Data Structures and Algorithms",
       "instructor": "Narasimha Karumanchi",
-      "image": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "image": "https://unsplash.com/photos/D4LDw5eXhgg",
       "details": "A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge about data structures.Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.Depending on your requirement and project, it is important to choose the right data structure for your project. For example, if you want to store data sequentially in the memory, then you can go for the Array data structure"
     },
     {
