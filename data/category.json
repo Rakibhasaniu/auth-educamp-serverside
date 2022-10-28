@@ -14,7 +14,7 @@
       "total_student": 488,
       "title": "Microprocessor And Embedded System",
       "instructor": "Jimmy Dane",
-      "image": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "image": "https://unsplash.com/photos/FlPc9_VocJ4",
       "details": "An embedded system is a microprocessor-based computer hardware system with software that is designed to perform a dedicated function, either as an independent system or as a part of a large system. At the core is an integrated circuit designed to carry out computation for real-time operations.How are Embedded Systems and Microcontrollers Different? At the heart of most embedded systems there is a microcontroller or microprocessor running the application. Embedded systems are generally more basic and rudimentary than microcontrollers since they often do not have logic to run the system.What is the role of microprocessor or microcontroller in embedded system? Microprocessor and embedded system .A microcontroller is embedded inside of a system to control a singular function in a device. It does this by interpreting data it receives from its I/O peripherals using its central processor."
     },
 
