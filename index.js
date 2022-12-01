@@ -1,27 +1,23 @@
-const express = require('express')
+const express = require("express");
 const app = express();
-const cors = require('cors')
-const port = process.env.port || 5000;
-
-const Allcategories = require('./data/category.json');
-// const course = require('./data/courses.json');
-
-
+const cors = require("cors");
 app.use(cors());
+const Port = process.env.Port || 5000;
+const AllCategories = require("./Data/Catagory.json");
 
-app.get('/categories', (req, res) => {
-    res.send(Allcategories);
-});
+app.get("/catagories", (req, res) => {
+    res.send(AllCategories);
+  });
 
-app.get('/categories/:id', (req, res) => {
+  app.get("/catagory/:id", (req, res) => {
     const id = req.params.id;
-    const details = Allcategories.find(detail => detail.id == id);
+    const details = AllCategories.find(detail => detail.id == id);
     res.send(details);
-});
+  });
+
+  app.listen(Port, () => {
+    console.log("server is running", Port);
+  });
 
 
-
-app.listen(port, () => {
-    console.log('Education Server ', port);
-})
-
+  module.exports = app;
